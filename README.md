@@ -2,7 +2,4 @@
 
 This is a really awesome website
 
-Edit on example branch.
-
-
-Updating locally
+Updates made on master on Github before rebase
